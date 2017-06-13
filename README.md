@@ -1,3 +1,5 @@
+Tested with python3.6, django 1.11
+
 1. Run python manage.py migrate
 2. Run python manage.py check
 
